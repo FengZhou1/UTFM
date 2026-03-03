@@ -20,7 +20,7 @@ NZ = AIRSPACE_HEIGHT // GRID_SIZE_Z    # Z方向网格数 = 10
 CELL_CAPACITY = 1              # 单网格-单时间窗最大容量
 
 # ======================== 航班参数 (Flight) ========================
-NUM_FLIGHTS   = 100            # 航班数量 (架次/小时)
+NUM_FLIGHTS   = 200            # 航班数量 (架次/小时)
 CRUISE_SPEED  = 15.0           # 基础巡航速度 (m/s)
 ETD_MIN       = 1              # 最早预计起飞时间 (s)
 ETD_MAX       = 3600           # 最晚预计起飞时间 (s)
